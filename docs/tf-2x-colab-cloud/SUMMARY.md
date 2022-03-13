@@ -1,3 +1,4 @@
++   [协作云中的 TensorFlow 2.x 教程](README.md)
 +   [一、深度学习简介](01.md)
 +   [二、使用 Google Colab 建立你的第一个神经网络](02.md)
 +   [三、使用 TensorFlow 数据](03.md)
@@ -8,4 +9,3 @@
 +   [八、自动文本生成](08.md)
 +   [九、情感分析](09.md)
 +   [十、基于循环神经网络的时间序列预测](10.md)
-+   [协作云 中的 TensorFlow 2.x 教程](README.md)

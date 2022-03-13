@@ -1,4 +1,4 @@
-# 协作云 中的 TensorFlow 2.x 教程
+# 协作云中的 TensorFlow 2.x 教程
 
 > 原文：[TensorFlow 2.x in the Colaboratory Cloud](https://zh.book4you.org/book/18190392/04ec9d)
 > 

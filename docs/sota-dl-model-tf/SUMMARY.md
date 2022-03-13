@@ -1,3 +1,4 @@
++   [TensorFlow 深度学习 SOTA 模型](README.md)
 +   [一、构建 TensorFlow 输入流水线](01.md)
 +   [二、通过数据扩充增加数据集的多样性](02.md)
 +   [三、TensorFlow 数据集](03.md)
@@ -12,4 +13,3 @@
 +   [十二、快速风格迁移](12.md)
 +   [十三、目标检测](13.md)
 +   [十四、强化学习导论](14.md)
-+   [TensorFlow 深度学习 SOTA 模型](README.md)
